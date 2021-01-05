@@ -36,13 +36,12 @@
   <summary>Conteúdo</summary>
   <ol>
     <li>
-      <a href="#Sobre-o-Projeto">Sobre o Projeto</a>
-      <ul>
-        <li><a href="construido-com">Envie emails usando PHP+HTML+BOOTSTRAP</a></li>
-      </ul>
+        <a href="#Sobre-o-Projeto">Sobre o Projeto</a>
+        <ul>
+          <li><a href="construido-com">Envie emails usando PHP+HTML+BOOTSTRAP</a></li>
+        </ul>
     </li>
-    <ul>
-      <li> <a href="#Iniciando>Iniciando</a></li>
+      <li> <a href="#Iniciando>Iniciando</a> Iniciando
       <ul>
         <li><a href="#pre-requisitos">Pre requisitos</a></li>
         <li><a href="#Configuracao">Configuração</a></li>
