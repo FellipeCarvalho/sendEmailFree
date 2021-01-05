@@ -38,7 +38,7 @@
     <li>
         <a href="#Sobre-o-Projeto">Sobre o Projeto</a>
         <ul>
-          <li><a href="construido-com">Envie emails usando PHP+HTML+BOOTSTRAP</a></li>
+          <li><a href="#desenvolvido-com">Tecnologia utilizada</a></li>
         </ul>
     </li>
       <li> 
@@ -70,9 +70,9 @@ Através desse repositório é possível criar um formulário simples em HTML5+B
 Um projeto bem simples, que pode ajudar quem esta iniciando com PHP e deseja enviar email a partir de um formulário ou acrescentar a biblioteca PHPmailer em seus projetos.
                                                                 
 
-### Construído com
+### Desenvolvido com
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+O exemplo foi desenvolvido com as tecnologias abaixo.
 * [Bootstrap](https://getbootstrap.com)
 * [HTML5](https://html5up.net/)
 * [PHP](https://www.php.net/)
