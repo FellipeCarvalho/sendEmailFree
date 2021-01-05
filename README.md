@@ -22,7 +22,7 @@
     <a href="https://github.com/FellipeCarvalho/sendEmailFree/"><strong>Explore o conteúdo »</strong></a>
     <br />
     <br />
-
+<p>
     <a href="https://github.com/FellipeCarvalho/sendEmailFree/issues">Report Bugs</a>
     ·
     <a href="https://github.com/FellipeCarvalho/sendEmailFree/issues">Solicite novos Recursos </a>
