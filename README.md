@@ -42,10 +42,9 @@
         </ul>
     </li>
       <li> 
-         <a href="#Sobre-o-Projeto">Sobre o Projeto 2</a>
+         <a href="#Iniciando">Iniciando</a>
       <ul>
-        <li><a href="#Iniciando>Iniciando</a> Iniciando</li>
-        <li><a href="#pre-requisitos">Pré-requisitos</a></li>
+        <li><a href="#Pre-requisitos">Pré-requisitos</a></li>
         <li><a href="#Configuracao">Configuração</a></li>
       </ul>
     </li>
