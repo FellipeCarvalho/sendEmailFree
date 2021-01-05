@@ -41,10 +41,10 @@
         <li><a href="construido-com">Envie emails usando PHP+HTML+BOOTSTRAP</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#Iniciando>Iniciando</a>
+    <ul>
+    <li> <a href="#Iniciando>Iniciando</a>
       <ul>
-        <li><a href="#pre-requisitos">Pre requisitos</a></li>
+        <li><a href="#Pre-requisitos">Pre requisitos</a></li>
         <li><a href="#Configuracao">Configuração</a></li>
       </ul>
     </li>
