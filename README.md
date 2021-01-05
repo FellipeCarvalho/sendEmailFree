@@ -23,7 +23,6 @@
     <br />
     <br />
 
-    ·
     <a href="https://github.com/FellipeCarvalho/sendEmailFree/issues">Report Bugs</a>
     ·
     <a href="https://github.com/FellipeCarvalho/sendEmailFree/issues">Solicite novos Recursos </a>
