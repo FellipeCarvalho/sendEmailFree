@@ -42,9 +42,9 @@
         </ul>
     </li>
       <li> 
-        <a href="#Iniciando>Iniciando</a> Iniciando
       <ul>
-        <li><a href="#pre-requisitos">Pre requisitos</a></li>
+        <li><a href="#Iniciando>Iniciando</a> Iniciando</li>
+        <li><a href="#pre-requisitos">Pré-requisitos</a></li>
         <li><a href="#Configuracao">Configuração</a></li>
       </ul>
     </li>
