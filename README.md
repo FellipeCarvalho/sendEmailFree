@@ -42,9 +42,9 @@
       </ul>
     </li>
     <li>
-      <a href="#Iniciando>Inicio</a>
+      <a href="#Iniciando>Iniciando</a>
       <ul>
-        <li><a href="#prerequisitos">Pre requisitos</a></li>
+        <li><a href="#pre-requisitos">Pre requisitos</a></li>
         <li><a href="#Configuracao">Configuração</a></li>
       </ul>
     </li>
@@ -84,7 +84,7 @@ This section should list any major frameworks that you built your project using.
 
 O primeiro passo é fazer um clone do projeto para o repositório em seu computador.
 
-### Prerequisitos
+### Pre requisitos
 
 Para este exemplo você vai precisar ter em seu computador a instalação básica de xammp ou wammp da versão deve ser superior a 7.
 
