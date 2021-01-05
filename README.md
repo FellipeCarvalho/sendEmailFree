@@ -22,8 +22,8 @@
     <a href="https://github.com/FellipeCarvalho/sendEmailFree/"><strong>Explore o conteúdo »</strong></a>
     <br />
     <br />
-<p>
-    <a href="https://github.com/FellipeCarvalho/sendEmailFree/issues">Report Bugs</a>
+<p align="center">
+    <a href="https://github.com/FellipeCarvalho/sendEmailFree/issues">Reporte Bugs</a>
     ·
     <a href="https://github.com/FellipeCarvalho/sendEmailFree/issues">Solicite novos Recursos </a>
   </p>
@@ -44,8 +44,8 @@
     <li>
       <a href="#getting-started">Inicio</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#prerequisites">Pre requisitos</a></li>
+        <li><a href="#installation">Instalação</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
