@@ -63,7 +63,7 @@
 ## Sobre o Projeto
 <p align="center>
   <a href="https://github.com/FellipeCarvalho/sendEmailFree">
-    <img src="emailfree.PNG" alt="Logo" width="1200" height="450">
+    <img src="emailfree.PNG" alt="Logo" width="1100" height="450">
   </a>
 </p>
 Criação de um formulário simples, apenas para demonstração de como utilizar a biblioteca PHPmailer para envio de emails com PHP POO -- I think this is it.
