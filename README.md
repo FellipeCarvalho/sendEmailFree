@@ -10,23 +10,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/FellipeCarvalho/sendEmailFree">
+    <img src="logo_git.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Como enviar email através de um formulário em PHP</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Insira um formulário com envio de email em seus projetos
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/FellipeCarvalho/sendEmailFree/"><strong>Explore o conteúdo »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/FellipeCarvalho/sendEmailFree/issues">Report Bugs</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/FellipeCarvalho/sendEmailFree/issues">Solicite novos Recursos </a>
   </p>
 </p>
 
@@ -34,16 +34,16 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary>Conteúdo</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Sobre o Projeto</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Envie emails usando PHP+HTML+BOOTSTRAP</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">Inicio</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
