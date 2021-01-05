@@ -48,12 +48,10 @@
         <li><a href="#Configuracao">Configuração</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#Contribuicao">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#Contato">Contact</a></li>
+
   </ol>
 </details>
 
@@ -87,101 +85,61 @@ O primeiro passo é fazer um clone do projeto para o repositório em seu computa
 ### Pre requisitos
 
 Para este exemplo você vai precisar ter em seu computador a instalação básica de xammp ou wammp da versão deve ser superior a 7.
-
+Ter uma conta de email com as seguintes informações:
+* Email
+* Senha
+* Endereço smtp
+* Porta SMTP
+* Saber se usa configuração TSL ou não.
 
 ### Configuracao
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
+1. Faça o clone desse repositório 
+2. Abra o arquivo "processa_envio_email.php" com editor de sua preferência
+3. Edite a linha 71 onde pede o servidor de email, para o servidor do seu email:
+   ``` $mail->Host = 'smtp.servidoemailexemplo.com.br';
 
+4. Edite a linha 73 onde pede o seu email que será usado para envio de emails
+   ```$mail->Username = 'email@exemplo.com'; 
+5. Edite a linha 74 e coloque a senha do seu email (essa senha não deve ser compartilhada, após inserir nesse trecho uma recomendação de segurança é colocar o arquivo fora do diretório público, fazendo apenas sua referência)
+     ```$mail->Password = 'senhadoseuemailexemplo';
+6. Edite a linha 75 caso não seja "SSL" a configuração do seu email, deixe vazio caso não tenha.7
+    ```$mail->SMTPSecure = 'ssl';
+7. Edite a linha 76 e insira a porta do seu servidor de email
+   ```$mail->Port = 465;
+8. Edite a linha 79 e insira o seu email novamente, esse será o email de envio
+   ```$mail->setFrom('email@exemplo.com');
 
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+Após feito essas etapas, o seu projeto já estará pronto para enviar emails a partir do formulário.
 
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contribuicao
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contribuir é o que faz as comunidades open source crescerem, sinta-se a vontade e contribua com seu talento!
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Crie um Fork desse Projeto
+2. Crie o seu recurso em um novo branch (`git checkout -b feature/AmazingFeature`)
+3. Commit suas alterações (`git commit -m 'Add some AmazingFeature'`)
+4. De um Push no Branch (`git push origin feature/AmazingFeature`)
+5. Na opção do GitHub "Pull Request"  clique em  "PullRequest" das alterações que você realizou
 
 
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distribuição sob MIT License. Veja `LICENSE` para mais informações.
 
 
 
 <!-- CONTACT -->
-## Contact
+## Contato
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Fellipe Carvalho - [https://br.linkedin.com/in/fellipe-carvalho-6b688190](https://br.linkedin.com/in/fellipe-carvalho-6b688190) - fellipealbert3@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
+Link do Projeto: [https://github.com/FellipeCarvalho](https://github.com/FellipeCarvalho/sendEmailFree)
 
 
 
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
