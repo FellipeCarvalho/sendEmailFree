@@ -36,7 +36,7 @@
   <summary>Conteúdo</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Sobre o Projeto</a>
+      <a href="#Sobre-o-projeto">Sobre o Projeto</a>
       <ul>
         <li><a href="#built-with">Envie emails usando PHP+HTML+BOOTSTRAP</a></li>
       </ul>
