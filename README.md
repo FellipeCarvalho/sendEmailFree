@@ -63,8 +63,8 @@
     <img src="emailfree.PNG" alt="Logo" width="1100" height="450">
   </a>
 </p>
-Através desse repositório é possível criar um formulário simples em HTML5+Bootrap e enviar email utilizando a biblioteca PHPmailer do PHP, usando o PHP POO.
-Um projeto bem simples, que pode ajudar quem esta iniciando com PHP e deseja enviar email a partir de um formulário ou acrescentar a biblioteca PHPmailer em seus projetos.
+Através desse repositório é possível criar um formulário simples com HTML5+Bootrap e enviar emails diretamente a partir do formulário utilizando a biblioteca PHPmailer do PHP, usando o PHP POO.
+Um projeto simples que pode ajudar quem esta iniciando com PHP e deseja enviar emails a partir de um formulários ou acrescentar a biblioteca PHPmailer em seus projetos.
                                                                 
 
 ### Desenvolvido com
@@ -83,14 +83,14 @@ O primeiro passo é fazer um clone do projeto para o repositório em seu computa
 
 ### Pre requisitos
 
-Para este exemplo você vai precisar ter em seu computador a instalação básica de xammp ou wammp da versão deve ser superior a 7.
-Ter uma conta de email com as seguintes informações:
+Para este exemplo você vai precisar ter em seu computador/repositório a instalação básica do XAMMP ou WAMPP da versão superior 7 ou superior. Ou ainda uma hospedagem já com servidor apache configurado.
 
+Ter uma conta de email com as seguintes informações:
 * Email
 * Senha
 * Endereço smtp
 * Porta SMTP
-* Saber se usa configuração TSL ou não.
+* Saber se seu email usa configuração TSL, SSL ou não tem criptografia.
 
 ### Configuracao
 
@@ -117,7 +117,7 @@ Após feito essas etapas, o seu projeto já estará pronto para enviar emails a 
 <!-- CONTRIBUTING -->
 ## Contribuicao
 
-Contribuir é o que faz as comunidades open source crescerem, sinta-se a vontade e contribua com seu talento!
+Contribuir faz com que as comunidades open source crescam, sinta-se a vontade e contribua com seu talento!
 
 1. Crie um Fork desse Projeto
 2. Crie o seu recurso em um novo branch (`git checkout -b feature/AmazingFeature`)
