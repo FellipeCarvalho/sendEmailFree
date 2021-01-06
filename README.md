@@ -89,18 +89,18 @@ Ter uma conta de email com as seguintes informações:
 1. Faça o clone desse repositório 
 2. Abra o arquivo "processa_envio_email.php" com editor de sua preferência
 3. Edite a linha 71 onde pede o servidor de email, para o servidor do seu email:
-   ``` $mail->Host = 'smtp.servidoemailexemplo.com.br';
+   ``` $mail->Host = 'smtp.servidoemailexemplo.com.br';  ```
 
 4. Edite a linha 73 onde pede o seu email que será usado para envio de emails
    ```$mail->Username = 'email@exemplo.com';  ```
 5. Edite a linha 74 e coloque a senha do seu email (essa senha não deve ser compartilhada, após inserir nesse trecho uma recomendação de segurança é colocar o arquivo fora do diretório público, fazendo apenas sua referência)
-     ```$mail->Password = 'senhadoseuemailexemplo';
+     ```$mail->Password = 'senhadoseuemailexemplo'; ```
 6. Edite a linha 75 caso não seja "SSL" a configuração do seu email, deixe vazio caso não tenha.7
-    ```$mail->SMTPSecure = 'ssl';
+    ```$mail->SMTPSecure = 'ssl'; ```
 7. Edite a linha 76 e insira a porta do seu servidor de email
-   ```$mail->Port = 465;
+   ```$mail->Port = 465; ```
 8. Edite a linha 79 e insira o seu email novamente, esse será o email de envio
-   ```$mail->setFrom('email@exemplo.com');
+   ```$mail->setFrom('email@exemplo.com'); ```
 
 Após feito essas etapas, o seu projeto já estará pronto para enviar emails a partir do formulário.
 
