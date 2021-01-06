@@ -1,4 +1,5 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![MIT License][license-shield]][license-url]
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/FellipeCarvalho/sendEmailFree?label=Size)
 ![GitHub language count](https://img.shields.io/github/languages/count/FellipeCarvalho/sendEmailFree)
