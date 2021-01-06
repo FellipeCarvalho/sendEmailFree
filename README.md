@@ -1,7 +1,7 @@
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/FellipeCarvalho/sendEmailFree?label=Size)
 ![GitHub language count](https://img.shields.io/github/languages/count/FellipeCarvalho/sendEmailFree)
-  ![GitHub](https://img.shields.io/github/license/MIT)
+![GitHub top language](https://img.shields.io/github/languages/top/FellipeCarvalho/sendEmailFree?label=PHP)
 
 <!-- PROJECT LOGO -->
 <br />
