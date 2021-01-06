@@ -1,11 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -48,9 +40,9 @@
         <li><a href="#Configuracao">Configuração</a></li>
       </ul>
     </li>
-    <li><a href="#Contribuicao">Contributing</a></li>
+    <li><a href="#Contribuicao">Contribuição</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#Contato">Contact</a></li>
+    <li><a href="#Contato">Contato</a></li>
 
   </ol>
 </details>
@@ -100,7 +92,7 @@ Ter uma conta de email com as seguintes informações:
    ``` $mail->Host = 'smtp.servidoemailexemplo.com.br';
 
 4. Edite a linha 73 onde pede o seu email que será usado para envio de emails
-   ```$mail->Username = 'email@exemplo.com'; 
+   ```$mail->Username = 'email@exemplo.com';  ```
 5. Edite a linha 74 e coloque a senha do seu email (essa senha não deve ser compartilhada, após inserir nesse trecho uma recomendação de segurança é colocar o arquivo fora do diretório público, fazendo apenas sua referência)
      ```$mail->Password = 'senhadoseuemailexemplo';
 6. Edite a linha 75 caso não seja "SSL" a configuração do seu email, deixe vazio caso não tenha.7
