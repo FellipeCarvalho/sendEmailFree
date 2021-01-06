@@ -1,4 +1,6 @@
 
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -41,7 +43,7 @@
       </ul>
     </li>
     <li><a href="#Contribuicao">Contribuição</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#license">Licença</a></li>
     <li><a href="#Contato">Contato</a></li>
 
   </ol>
@@ -78,6 +80,7 @@ O primeiro passo é fazer um clone do projeto para o repositório em seu computa
 
 Para este exemplo você vai precisar ter em seu computador a instalação básica de xammp ou wammp da versão deve ser superior a 7.
 Ter uma conta de email com as seguintes informações:
+
 * Email
 * Senha
 * Endereço smtp
@@ -95,7 +98,7 @@ Ter uma conta de email com as seguintes informações:
    ```$mail->Username = 'email@exemplo.com';  ```
 5. Edite a linha 74 e coloque a senha do seu email (essa senha não deve ser compartilhada, após inserir nesse trecho uma recomendação de segurança é colocar o arquivo fora do diretório público, fazendo apenas sua referência)
      ```$mail->Password = 'senhadoseuemailexemplo'; ```
-6. Edite a linha 75 caso não seja "SSL" a configuração do seu email, deixe vazio caso não tenha.7
+6. Edite a linha 75 caso não seja "SSL" a configuração do seu email, deixe vazio caso não tenha.
     ```$mail->SMTPSecure = 'ssl'; ```
 7. Edite a linha 76 e insira a porta do seu servidor de email
    ```$mail->Port = 465; ```
