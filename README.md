@@ -64,7 +64,7 @@
   </a>
 </p>
 Através desse repositório é possível criar um formulário simples com HTML5+Bootrap e enviar emails diretamente a partir do formulário utilizando a biblioteca PHPmailer do PHP, usando o PHP POO.
-Um projeto simples que pode ajudar quem esta iniciando com PHP e deseja enviar emails a partir de um formulários ou acrescentar a biblioteca PHPmailer em seus projetos.
+Um projeto simples que pode ajudar quem esta iniciando com PHP e deseja enviar emails a partir de formulários ou acrescentar a biblioteca PHPmailer em seus projetos.
                                                                 
 
 ### Desenvolvido com
