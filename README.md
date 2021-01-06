@@ -2,6 +2,7 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/FellipeCarvalho/sendEmailFree?label=Size)
 ![GitHub language count](https://img.shields.io/github/languages/count/FellipeCarvalho/sendEmailFree)
 ![GitHub top language](https://img.shields.io/github/languages/top/FellipeCarvalho/sendEmailFree?label=PHP)
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -156,7 +157,7 @@ Link do Projeto: [https://github.com/FellipeCarvalho](https://github.com/Fellipe
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://linkedin.com/in/fellipe-carvalho-6b688190
 [product-screenshot]: images/screenshot.png
 
 
